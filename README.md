@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yerloveraaa)](https://git.io/streak-stats)
+
 # 👋 Hi, I'm Angel  
 
 💻 **Full Stack & Mobile Engineer** | React • React Native • Node.js • Flutter • Swift • Kotlin  
