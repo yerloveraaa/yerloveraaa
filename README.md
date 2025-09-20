@@ -74,9 +74,19 @@
 - 🎯 **Free 30-Minute Consultation**
   
 ---
-## 🤝 Community Contributions
-- **[react-native-awesome-picker](https://www.npmjs.com/package/react-native-awesome-picker)** – Open-source React Native component used by 10k+ projects  
-- **[nodejs-firebase-utils](https://www.npmjs.com/package/nodejs-firebase-utils)** – Utilities for Node.js + Firebase projects  
-- **Contributor to:** [React Native](https://github.com/facebook/react-native), [Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)
+## 🤝 Open Source & npm Contributions
 
+Here are some of my contributions to the developer community through npm packages and open source projects:
+
+- **[react-native-awesome-picker](https://github.com/yourusername/react-native-awesome-picker)** – Added new features and bug fixes, 5k+ downloads weekly  
+- **[nodejs-firebase-utils](https://github.com/yourusername/nodejs-firebase-utils)** – Improved performance and added helper functions for Firebase integrations  
+- **Contributor to [React Native](https://github.com/facebook/react-native)** – PRs for bug fixes, documentation, and new features  
+- **Contributor to [Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** – Added utilities and improved testing coverage  
+- **Contributor to [Lodash](https://github.com/lodash/lodash)** – Performance optimizations on core utility functions  
+
+### 📦 npm Stats
+<p align="left">
+  <a href="https://www.npmjs.com/~yourusername" target="_blank"><img src="https://img.shields.io/npm/dm/your-package-name" alt="npm downloads"></a>
+  <a href="https://www.npmjs.com/~yourusername" target="_blank"><img src="https://img.shields.io/npm/v/your-package-name" alt="npm version"></a>
+</p>
 ---
