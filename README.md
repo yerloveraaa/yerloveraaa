@@ -94,13 +94,17 @@ I’ve actively contributed to well-known open source projects that power millio
 ---
 ---
 
-## 📬 Connect with Me
+---
 
-[🔗 LinkedIn](https://www.linkedin.com/in/joel-maria-960a7820/)  
-✉️ [Email](mailto:joelmsanto@gmail.com)  
-📱 [WhatsApp](https://wa.me/19787712261)  
+## 📬 Let's Connect
 
-**Schedule a free 30-minute consultation!**
+| Platform   | Contact |
+|------------|---------|
+| 🔗 LinkedIn | [joel-maria](https://www.linkedin.com/in/joel-maria-960a7820/) |
+| ✉️ Email    | [joelmsanto@gmail.com](mailto:joelmsanto@gmail.com) |
+| 📱 WhatsApp | [+1 978 771 2261](https://wa.me/19787712261) |
+
+**🎯 Free 30-Minute Consultation Available**
 
 ---
 
