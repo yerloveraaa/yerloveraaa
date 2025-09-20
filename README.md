@@ -42,7 +42,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,kafka,php,laravel,firebase,python,django,graphql,postgres,mongodb,docker,kubernetes,redis,git,aws,gcp,redux,webpack,wordpress,androidstudio,babel,bootstrap,css,html,figma,mysql,supabase" />
 </p>
 
@@ -85,10 +85,10 @@ I’ve actively contributed to well-known open source projects that power millio
 
 ---
 
-## 📬 Connect with Me
-- 🌐 [GitHub](https://github.com/jmstechnologiesinc)  
-- 💼 [LinkedIn](https://linkedin.com/)  
-- 📧 angel@email.com  
-- 🎯 **Free 30-Minute Consultation**
-  
+## 📬 Connect with Me  
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-maria-960a7820/)  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmsanto@gmail.com)  
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19787712261)  
+
 ---
