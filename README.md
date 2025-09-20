@@ -27,6 +27,8 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerloveraaa&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yerloveraaa&theme=radical" />
+
 
 ---
 
