@@ -55,7 +55,7 @@
   
 </p>
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmstechnologiesinc&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmstechnologiesinc&show_icons=true&theme=yerloveraaa&count_private=true&hide=issues)
 
 ---
 
