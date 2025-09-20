@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yerloveraaa)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=yerloveraaa)](https://git.io/streak-stats)
 
 # 👋 Hi, I'm Angel  
 
