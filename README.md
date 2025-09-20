@@ -43,7 +43,7 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,ts,js,swift,kotlin,php,laravel,firebase,python,django,graphql,postgres,mongodb,docker,kubernetes,redis,git,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,kafka,php,laravel,firebase,python,django,graphql,postgres,mongodb,docker,kubernetes,redis,git,aws,gcp,redux,webpack,wordpress,androidstudio,babel, bootstrap, css,html,figma,mysql" />
 </p>
 
 ---
