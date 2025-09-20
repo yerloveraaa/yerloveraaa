@@ -65,15 +65,7 @@
 - Architected **serverless & microservices** backends with Firebase, Node.js, and Kubernetes  
 - Integrated **Stripe payments, real-time geolocation, AI/ML**, and **secure APIs**  
 
----
 
-## 📬 Connect with Me
-- 🌐 [GitHub](https://github.com/jmstechnologiesinc)  
-- 💼 [LinkedIn](https://linkedin.com/)  
-- 📧 angel@email.com  
-- 🎯 **Free 30-Minute Consultation**
-  
----
 ## 📦 My Open Source Library
 
 **[react-native-components](https://github.com/jmstechnologiesinc/react-native-components)**  
@@ -90,7 +82,17 @@ A lightweight, modular UI kit & utility library for React Native (Android, iOS &
 
 I’ve actively contributed to well-known open source projects that power millions of apps worldwide:
 
-- 🌀 **[React Native](https://github.com/facebook/react-native)** → Bug fixes, documentation improvements & feature enhancements  
+- 🌀 **[React Native Paper](https://github.com/jmstechnologiesinc/react-native-paper)** → Bug fixes, documentation improvements & feature enhancements  
 - 🔥 **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** → Utilities, testing coverage, and Node.js integrations  
-- ⚡ **[Lodash](https://github.com/lodash/lodash)** → Performance improvements on core utilities  
+- ⚡ **[React Native Mapbox Navigation]([https://github.com/lodash/lodash](https://github.com/jmstechnologiesinc/react-native-mapbox-navigation))** → Performance improvements on core utilities  
+---
+
+---
+
+## 📬 Connect with Me
+- 🌐 [GitHub](https://github.com/jmstechnologiesinc)  
+- 💼 [LinkedIn](https://linkedin.com/)  
+- 📧 angel@email.com  
+- 🎯 **Free 30-Minute Consultation**
+  
 ---
