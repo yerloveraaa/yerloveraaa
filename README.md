@@ -26,6 +26,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerloveraaa&theme=radical" alt="GitHub streak"/>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerloveraaa&layout=compact&theme=radical" />
+
 ---
 
 ### 📫 Connect with me
