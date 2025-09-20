@@ -82,21 +82,10 @@ I’ve actively contributed to well-known open source projects that power millio
 - 🌀 **[React Native Paper](https://github.com/jmstechnologiesinc/react-native-paper)** → Bug fixes, documentation improvements & feature enhancements  
 - 🔥 **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** → Utilities, testing coverage, and Node.js integrations  
 - ⚡ **[React Native Mapbox Navigation](https://github.com/jmstechnologiesinc/react-native-mapbox-navigation)** → Performance improvements on core utilities  
-
 ---
+
 
 ## 📬 Connect with Me  
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-maria-960a7820/)  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmsanto@gmail.com)  
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19787712261)  
-
----
----
-
----
-
-## 📬 Let's Connect
 
 | Platform   | Contact |
 |------------|---------|
