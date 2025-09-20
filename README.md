@@ -85,3 +85,12 @@ A lightweight, modular UI kit & utility library for React Native (Android, iOS &
 - Map & geolocation components: markers, tooltips, heatmaps, etc.
 - Comprehensive helper utilities (deep linking, permissions, image helpers, etc.) 
 ---
+---
+## 🌍 Open Source Contributions
+
+I’ve actively contributed to well-known open source projects that power millions of apps worldwide:
+
+- 🌀 **[React Native](https://github.com/facebook/react-native)** → Bug fixes, documentation improvements & feature enhancements  
+- 🔥 **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** → Utilities, testing coverage, and Node.js integrations  
+- ⚡ **[Lodash](https://github.com/lodash/lodash)** → Performance improvements on core utilities  
+---
