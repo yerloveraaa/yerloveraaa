@@ -74,19 +74,14 @@
 - 🎯 **Free 30-Minute Consultation**
   
 ---
-## 🤝 Open Source & npm Contributions
+## 📦 My Open Source Library
 
-Here are some of my contributions to the developer community through npm packages and open source projects:
+**[react-native-components](https://github.com/jmstechnologiesinc/react-native-components)**  
+A lightweight, modular UI kit & utility library for React Native (Android, iOS & Web). Built to accelerate development with reusable components, theming, localization, map & geolocation support, and real-world performance optimizations. :contentReference[oaicite:0]{index=0}
 
-- **[react-native-awesome-picker](https://github.com/yourusername/react-native-awesome-picker)** – Added new features and bug fixes, 5k+ downloads weekly  
-- **[nodejs-firebase-utils](https://github.com/yourusername/nodejs-firebase-utils)** – Improved performance and added helper functions for Firebase integrations  
-- **Contributor to [React Native](https://github.com/facebook/react-native)** – PRs for bug fixes, documentation, and new features  
-- **Contributor to [Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** – Added utilities and improved testing coverage  
-- **Contributor to [Lodash](https://github.com/lodash/lodash)** – Performance optimizations on core utility functions  
-
-### 📦 npm Stats
-<p align="left">
-  <a href="https://www.npmjs.com/~yourusername" target="_blank"><img src="https://img.shields.io/npm/dm/your-package-name" alt="npm downloads"></a>
-  <a href="https://www.npmjs.com/~yourusername" target="_blank"><img src="https://img.shields.io/npm/v/your-package-name" alt="npm version"></a>
-</p>
+### ⚙️ Key Features
+- Modular exports — import only what you need to keep bundle size minimal :contentReference[oaicite:1]{index=1}  
+- Theming & localization utilities included :contentReference[oaicite:2]{index=2}  
+- Map & geolocation components: markers, tooltips, heatmaps, etc. :contentReference[oaicite:3]{index=3}  
+- Comprehensive helper utilities (deep linking, permissions, image helpers, etc.) :contentReference[oaicite:4]{index=4}  
 ---
