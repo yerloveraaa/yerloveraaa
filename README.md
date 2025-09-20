@@ -50,14 +50,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerloveraaa&show_icons=true&theme=radical" />
-  
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yerloveraaa&show_icons=true&theme=radical&count_private=true&hide=stars" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerloveraaa&layout=compact&theme=radical&hide=html,css" />
 </p>
-
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerloveraaa&show_icons=true&theme=radical&count_private=true&hide=stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerloveraaa&layout=compact&theme=radical&hide=html,css)
 
 
 ---
