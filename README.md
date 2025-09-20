@@ -1,4 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=yerloveraaa)](https://git.io/streak-stats)
 
 # 👋 Hi, I'm Angel  
 
@@ -48,6 +47,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,nodejs,ts,js,swift,kotlin,php,laravel,firebase,python,django,graphql,postgres,mongodb,docker,kubernetes,redis,git,aws,gcp" />
 </p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=yerloveraaa)](https://git.io/streak-stats)
 
 ---
 
@@ -72,3 +72,11 @@
 - 💼 [LinkedIn](https://linkedin.com/)  
 - 📧 angel@email.com  
 - 🎯 **Free 30-Minute Consultation**
+  
+---
+## 🤝 Community Contributions
+- **[react-native-awesome-picker](https://www.npmjs.com/package/react-native-awesome-picker)** – Open-source React Native component used by 10k+ projects  
+- **[nodejs-firebase-utils](https://www.npmjs.com/package/nodejs-firebase-utils)** – Utilities for Node.js + Firebase projects  
+- **Contributor to:** [React Native](https://github.com/facebook/react-native), [Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)
+
+---
