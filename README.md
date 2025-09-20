@@ -52,8 +52,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=yerloveraaa&show_icons=true&theme=radical&count_private=true&hide=stars" />
+
+  <!-- Top Languages -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerloveraaa&layout=compact&theme=radical&hide=html,css" />
+
+  <!-- Streak Stats -->
+  <img height="180" src="https://streak-stats.demolab.com?user=yerloveraaa&theme=radical" />
 </p>
 
 
