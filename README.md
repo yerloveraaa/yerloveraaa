@@ -23,11 +23,11 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yerloveraaa&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerloveraaa&theme=radical" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=yerloveraaa-dev&theme=radical" />
+
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerloveraaa&layout=compact&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yerloveraaa&theme=radical" />
 
 
 ---
