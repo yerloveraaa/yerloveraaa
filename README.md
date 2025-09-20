@@ -92,3 +92,21 @@ I’ve actively contributed to well-known open source projects that power millio
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19787712261)  
 
 ---
+
+## 📬 Conecta Conmigo  
+
+### 🌐 Redes profesionales  
+[![LinkedIn Professional](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-maria-960a7820/)  
+*Conectemos profesionalmente en LinkedIn*  
+
+### 📧 Contacto directo  
+[![Email Professional](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joelmsanto@gmail.com)  
+*joelmsanto@gmail.com*  
+
+### 💬 Mensajería rápida  
+[![WhatsApp Business](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/19787712261)  
+*+1 (978) 771-2261*  
+
+---
+
+✨ *No dudes en contactarme para oportunidades profesionales* ✨
