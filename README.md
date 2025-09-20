@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Angel  
+# 👋 Hi, I'm Joel Maria
 
-💻 **Full Stack & Mobile Engineer** | React • React Native • Node.js • Flutter • Swift • Kotlin  
+💻 **Full Stack & Mobile Engineer** | JavaScript • React • React Native • Node.js • Docker • Kubernetes  
 🚀 16+ years of experience building scalable FinTech, transportation, and enterprise apps  
 🌍 Former AI Mobile App Developer at **Bank of America, Fidelity, TD Ameritrade**, and Team Lead at **U.S. Bank**  
 📈 Specialized in **Web, Mobile & Backend Development** with a focus on **AI-driven features, cloud, and geolocation systems**  
@@ -39,15 +39,12 @@
 - **TD Ameritrade** → Cross-platform fintech trading app (iOS, Android, Web)  
 - **Multi-Vendor Marketplace** → Firebase serverless functions for payments, analytics & real-time ops  
 
-👉 Explore more: [Portfolio on Upwork](https://www.upwork.com/freelancers/~01ab1a4dcb0cf8e2f0)
-
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,nodejs,ts,js,swift,kotlin,php,laravel,firebase,python,django,graphql,postgres,mongodb,docker,kubernetes,redis,git,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,ts,js,swift,kotlin,php,laravel,firebase,python,django,graphql,postgres,mongodb,docker,kubernetes,redis,git,aws,gcp" />
 </p>
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=yerloveraaa)](https://git.io/streak-stats)
 
 ---
 
@@ -68,7 +65,7 @@
 
 ## 📦 My Open Source Library
 
-**[react-native-components](https://github.com/jmstechnologiesinc/react-native-components)**  
+- 🔥 **[react-native-components](https://github.com/jmstechnologiesinc/react-native-components)**  
 A lightweight, modular UI kit & utility library for React Native (Android, iOS & Web). Built to accelerate development with reusable components, theming, localization, map & geolocation support, and real-world performance optimizations.
 
 ### ⚙️ Key Features
@@ -77,7 +74,7 @@ A lightweight, modular UI kit & utility library for React Native (Android, iOS &
 - Map & geolocation components: markers, tooltips, heatmaps, etc.
 - Comprehensive helper utilities (deep linking, permissions, image helpers, etc.) 
 ---
----
+
 ## 🌍 Open Source Contributions
 
 I’ve actively contributed to well-known open source projects that power millions of apps worldwide:
@@ -85,7 +82,6 @@ I’ve actively contributed to well-known open source projects that power millio
 - 🌀 **[React Native Paper](https://github.com/jmstechnologiesinc/react-native-paper)** → Bug fixes, documentation improvements & feature enhancements  
 - 🔥 **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** → Utilities, testing coverage, and Node.js integrations  
 - ⚡ **[React Native Mapbox Navigation](https://github.com/jmstechnologiesinc/react-native-mapbox-navigation)** → Performance improvements on core utilities  
----
 
 ---
 
