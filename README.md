@@ -54,7 +54,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yerloveraaa&show_icons=true&theme=radical" />
   
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmstechnologiesinc&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+
 ---
 
 ## 🏅 Achievements
