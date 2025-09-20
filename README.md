@@ -77,11 +77,11 @@
 ## 📦 My Open Source Library
 
 **[react-native-components](https://github.com/jmstechnologiesinc/react-native-components)**  
-A lightweight, modular UI kit & utility library for React Native (Android, iOS & Web). Built to accelerate development with reusable components, theming, localization, map & geolocation support, and real-world performance optimizations. :contentReference[oaicite:0]{index=0}
+A lightweight, modular UI kit & utility library for React Native (Android, iOS & Web). Built to accelerate development with reusable components, theming, localization, map & geolocation support, and real-world performance optimizations.
 
 ### ⚙️ Key Features
-- Modular exports — import only what you need to keep bundle size minimal :contentReference[oaicite:1]{index=1}  
-- Theming & localization utilities included :contentReference[oaicite:2]{index=2}  
-- Map & geolocation components: markers, tooltips, heatmaps, etc. :contentReference[oaicite:3]{index=3}  
-- Comprehensive helper utilities (deep linking, permissions, image helpers, etc.) :contentReference[oaicite:4]{index=4}  
+- Modular exports — import only what you need to keep bundle size minimal
+- Theming & localization utilities included 
+- Map & geolocation components: markers, tooltips, heatmaps, etc.
+- Comprehensive helper utilities (deep linking, permissions, image helpers, etc.) 
 ---
