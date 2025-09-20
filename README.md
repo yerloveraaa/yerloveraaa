@@ -84,7 +84,7 @@ I’ve actively contributed to well-known open source projects that power millio
 
 - 🌀 **[React Native Paper](https://github.com/jmstechnologiesinc/react-native-paper)** → Bug fixes, documentation improvements & feature enhancements  
 - 🔥 **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** → Utilities, testing coverage, and Node.js integrations  
-- ⚡ **[React Native Mapbox Navigation]((https://github.com/jmstechnologiesinc/react-native-mapbox-navigation))** → Performance improvements on core utilities  
+- ⚡ **[React Native Mapbox Navigation](https://github.com/jmstechnologiesinc/react-native-mapbox-navigation)** → Performance improvements on core utilities  
 ---
 
 ---
